@@ -1,6 +1,8 @@
 # bgeva
 Binary Generalized Extreme Value Additive Modelling Use bgeva With (In) R Software
 
+https://www.youtube.com/watch?v=feN-0RItXGw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
